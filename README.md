@@ -8,7 +8,7 @@ The app is tested on anaconda env with python3.9
 `conda create -n qa python=3.9`  
 
 Follow the instructions here to install tensorflow with pip
-`https://www.tensorflow.org/install/pip`  
+[https://www.tensorflow.org/install/pip]  
 
 For the remaining packages, do
 `pip install -r requirements.txt`  
